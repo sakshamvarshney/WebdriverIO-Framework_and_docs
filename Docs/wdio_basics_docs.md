@@ -1,6 +1,6 @@
 # WebdriverIO Documentation
 
-**@auther: Saksham Varshney**
+**@author: Saksham Varshney**
 
 ### Introduction:
 	1. Built on Node.js engine
